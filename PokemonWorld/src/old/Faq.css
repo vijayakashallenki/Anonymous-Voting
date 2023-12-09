@@ -1,0 +1,22 @@
+.my-component {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   
+   .my-content {
+    width: 700px;
+    text-align: left;
+    font-family: 'Space Mono', monospace;
+    font-size: 20px;
+    line-height: 1.5;
+   }
+   
+   .my-content h2 {
+    font-family: 'Right Grotesk', sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: 900;
+   }
+   
