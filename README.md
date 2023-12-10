@@ -1,1 +1,1 @@
-ZK-Pokemon Game ETHIndia
+Anonymous-Voting ETHIndia
